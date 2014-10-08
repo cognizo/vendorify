@@ -1,0 +1,13 @@
+{
+  "name": "vendorify",
+  "version": "0.0.1",
+  "description": "Rewrite require calls to point to a vendor path.",
+  "main": "index.js",
+  "author": "Graham Floyd",
+  "license": "MIT",
+  "dependencies": {
+    "browserify-transform-tools": "^1.2.1",
+    "package-path": "0.0.1",
+    "resolve": "^1.0.0"
+  }
+}
